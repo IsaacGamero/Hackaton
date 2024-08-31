@@ -1,12 +1,12 @@
 # src/calculator.py
 
-def add(x, y):
+def suma(x, y):
   return x + y
 
-def divide(x, y):
+def dividir(x, y):
   return x/y
 
-def subtract(x, y):
+def restar(x, y):
     return x - y
 
 def multiplicacion(x, y):
